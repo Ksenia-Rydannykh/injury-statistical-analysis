@@ -1,7 +1,5 @@
 ---
 ## title: "Summary on a Page"
-## author: "Kseniia Rydannykh (n11801182)"
-## date: "2024-09-15"
 output:
   pdf_document: default
   html_document:
