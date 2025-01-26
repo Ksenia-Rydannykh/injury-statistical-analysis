@@ -1,4 +1,4 @@
-# Workplace Injury Analysis  
+# Workplace Injury Statistical Analysis  
 
 ## Overview  
 This project is a **university statistical study** investigating factors that can help **reduce workplace injuries** using **R and RStudio**.  
